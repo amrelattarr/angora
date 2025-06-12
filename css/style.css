@@ -1,0 +1,16 @@
+body{
+    background-color: #f5f2e9;
+}
+
+#Quote{
+    font-family: "Edu VIC WA NT Hand Pre", cursive;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.card{
+    color: #c93717;
+    background-color: transparent;
+}
